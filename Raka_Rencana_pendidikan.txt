@@ -3,3 +3,4 @@ Rencana pendidikan raka
 1. Kuliah
 2. Bootcamp
 3. Kursus English
+4. Jadi Fullstack Web
